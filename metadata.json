@@ -1,0 +1,8 @@
+{
+  "name": "Eatrite",
+  "description": "Scan barcodes to analyze food ingredients, view restaurant ratings, and chat with an AI assistant to get personalized food safety advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
